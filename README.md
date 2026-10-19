@@ -48,5 +48,5 @@ You can run and test this project locally in under 2 minutes:
 ecommerce-sql-analytics/
 │
 ├── README.md              # Project documentation and business insights
-├── schema.sql             # Database creation script and sample data
-└── analysis.sql           # Core analytical business queries
+├── analysis.sql           # Core analytical business queries
+└── schema.sql             # Database creation script and sample data 
